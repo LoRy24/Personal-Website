@@ -1,21 +1,17 @@
-# Next.js template
+# LoRy24.dev Portfolio
+Welcome to the LoRy24.dev Portfolio repository! This repository contains the code of my personal website written with Next.js, showcasing my projects, skills, and experience as a developer.
 
-This is a Next.js template with shadcn/ui.
+## Features
+My portfolio website includes the following features:
+- Responsive design for optimal viewing on various devices
+- Interactive project showcase with detailed descriptions
+- Contact form for easy communication
+- Integration with social media profiles
+- SEO optimization for better visibility
+- Dark mode support for a better user experience
+- Performance optimization for fast loading times
+- Accessibility features to ensure inclusivity
+- Blog section to share insights and updates about my work and the tech industry
 
-## Adding components
-
-To add components to your app, run the following command:
-
-```bash
-npx shadcn@latest add button
-```
-
-This will place the ui components in the `components` directory.
-
-## Using components
-
-To use the components in your app, import them as follows:
-
-```tsx
-import { Button } from "@/components/ui/button";
-```
+## License
+This code is protected under the CC BY-NC-ND 4.0 license, which means you can share it with others as long as you give appropriate credit, do not use it for commercial purposes, and do not modify it in any way.
