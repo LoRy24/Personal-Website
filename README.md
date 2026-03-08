@@ -1,4 +1,4 @@
-# LoRy24.dev Portfolio
+# 🌐 LoRy24.dev Portfolio
 ✌️ Welcome to the LoRy24.dev Portfolio repository! This repository contains the code of my personal website written with Next.js, showcasing my projects, skills, and experience as a developer.
 
 ## 🎗️ Features
